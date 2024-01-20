@@ -1,0 +1,2 @@
+# Metric
+Welcome to the Metric Converter! To use this app, select the conversion to perform by entering the corresponding number, the calculator will keep accepting inputs until you exit. To make another conversion, just keep selecting from the table using the corresponding number. After making a selection from the table, you will be prompted to input which of the two conversions to make. Select the number that corresponds to the desired conversion. For instance, to convert kg to lbs you would select 1, and then 1 again before you input the amount in kg to convert. 
